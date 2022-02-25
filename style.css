@@ -1,0 +1,26 @@
+.hidden {
+  display: none;
+}
+
+img  {
+  max-width: 25%;
+
+  float: left;
+  padding: 1rem;
+
+}
+div {
+  margin: 1rem;
+}
+
+
+h2 {
+  cursor: pointer;
+  background-color: rgb(86, 177, 58);
+  padding: 1rem;
+
+}
+section{
+  display: flex;
+  flex-direction: column;
+}
